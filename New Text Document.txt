@@ -1,0 +1,33 @@
+Nhân vật (Player): Player Movement - Death Animation - Player
+Rùa (Koopa): Enity Movement - Animated Sprite - Koopa - Death Animation
+gạch (UndergroundBrick): Block Hit
+cục bí ẩn (SysteryBlock): Block Hit
+
+
+//***DAY1***//
+Animated Sprite
+Extensions
+Player Movement
+Player Sprite
+Side Scrolling
+
+//***DAY2***//
+GameManager
+Goomba
+Koopa
+Entity Movement
+Death Animation
+Player
+Death Barrier
+
+//***DAY3***// chuyển động của player to and lớn, 
+BlockHit --> thêm Coin(prefabs) vào script
+BlockCoin --> chỉnh phần GameManager and Conin vào script của MysteryBlock
+BlockItem --> 1upMushroom
+PowerUp
+Goomba and Koopa --> Oncoll and Ontrigged
+GameManager --> private void start
+Player
+
+
+//***DAY4***//
